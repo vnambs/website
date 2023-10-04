@@ -241,10 +241,10 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-13.5.4.tgz#777c3af16de2cf2f611b6c8126910062d13d222c"
   integrity sha512-LGegJkMvRNw90WWphGJ3RMHMVplYcOfRWf2Be3td3sUa+1AaxmsYyANsA+znrGCBjXJNi4XAQlSoEfUxs/4kIQ==
 
-"@next/font@^13.0.5-canary.3":
-  version "13.0.5-canary.3"
-  resolved "https://registry.yarnpkg.com/@next/font/-/font-13.0.5-canary.3.tgz#5f8d0a80c14920a3e39a52780934fa84e175e7bf"
-  integrity sha512-CJTmGycuB2bnskZLLX2YJzBHYW6qJUCHN3B/MEwd2mFtYB4q+O+2CSPqvgnC5hzWuTKyrC2url2vOIr4g59WYw==
+"@next/font@^13.4.19":
+  version "13.5.4"
+  resolved "https://registry.yarnpkg.com/@next/font/-/font-13.5.4.tgz#5b5d204d8c6de035688b5728131cc0d7edaf2da3"
+  integrity sha512-rOMki1/9BP9N93RZABiiF0EidMGgyCvNVSKvLLAnMkVh/IYk4Z827+NRuxCyRQCeT3vv/AeCiP5SFPAP10SPrQ==
 
 "@next/swc-darwin-arm64@13.5.4":
   version "13.5.4"
